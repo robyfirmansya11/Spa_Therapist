@@ -72,7 +72,7 @@ Therapists can only view and manage their own transactions, while Admin and Mana
 
 * Laravel
 * PHP
-* MySQL
+* PostgreSQL
 
 ### Frontend
 

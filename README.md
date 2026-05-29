@@ -163,7 +163,14 @@ This project implements several Laravel security best practices:
 
 ## 📸 Screenshots
 
-Coming soon.
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Transaction Page
+![Transaction](screenshots/transaksi.png)
 
 ---
 
